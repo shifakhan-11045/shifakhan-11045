@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ac01a691-c6b4-4f48-9070-1ca4e9f6286b
+<img src="https://i.pinimg.com/736x/50/9a/e6/509ae68ced6dcd708c9d1a8041b077d5.jpg
 " width="900" height="200"/>
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
