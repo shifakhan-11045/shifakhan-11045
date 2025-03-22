@@ -35,7 +35,7 @@
 ## 🛠️ Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,express,java,git,github,githubactions,js,mongodb,mysql,nodejs,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,docker,copilot,css,express,java,git,github,githubactions,js,mongodb,mysql,nodejs,postman,vscode" />
   </a>
 </p>
   
