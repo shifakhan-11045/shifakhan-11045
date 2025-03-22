@@ -1,4 +1,4 @@
-[![MasterHead]([https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif?w=1024)](https://www.linkedin.com/in/shubham-mishra-swe/](https://github.githubassets.com/assets/filters-zero-86555dddc82e.svg))
+[![MasterHead](https://github.githubassets.com/assets/filters-zero-86555dddc82e.svg)
 
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
