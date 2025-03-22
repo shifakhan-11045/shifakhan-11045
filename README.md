@@ -19,15 +19,16 @@
 ## 🚀 Connect with me:
 <p align="left">
   
- <a href="https://www.linkedin.com/in/shifa-khan-wef">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/shifa-khan-wef">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border-radius=15">
 </a>
 <a href="https://www.instagram.com/shifaa.khan.11/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border-radius=15">
 </a>
 <a href="https://hashnode.com/@shifakhan">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&border-radius=15">
 </a>
+
 
   
 </p>
