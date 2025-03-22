@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
-<img align="right" alt="Coding" width="400" height = "400" src="https://i.pinimg.com/736x/56/40/a6/5640a62660fa5f5896d909adc0540233.jpg">
+<img align="right" alt="Coding" width="400" height = "350" src="https://i.pinimg.com/736x/56/40/a6/5640a62660fa5f5896d909adc0540233.jpg">
 
 
 🔭 I’m currently working on Java Development & Web Applications.  
