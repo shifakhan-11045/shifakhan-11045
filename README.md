@@ -1,4 +1,4 @@
-[![MasterHead](https://github.githubassets.com/assets/filters-zero-86555dddc82e.svg)
+[![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)
 
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
