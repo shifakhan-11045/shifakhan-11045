@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
-<br><br>
+<br>
 🔭 I’m currently working on Java Development & Web Applications.  
 <br>
 
