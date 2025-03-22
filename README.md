@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
 
+
 🔭 I’m currently working on Java Development & Web Applications.  
-<br>
 
 🌱 I’m currently learning REST API & Java systematically.  
 
