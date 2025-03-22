@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" width="900" height="100"/>
+<img src="https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif" />
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
 <img align="right" alt="Coding" width="400" height = "350" src="https://i.pinimg.com/736x/56/40/a6/5640a62660fa5f5896d909adc0540233.jpg">
