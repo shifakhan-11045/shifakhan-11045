@@ -18,10 +18,7 @@
 
 ## 🚀 Connect with me:
 <p align="left">
-  
-### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/shifa-khan-wef">
+    <a href="https://www.linkedin.com/in/shifa-khan-wef">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/shifaa.khan.11/">
@@ -30,20 +27,6 @@
   <a href="https://hashnode.com/@shifakhan">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="40" height="40"/>
   </a>
-</p>
-
-### Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
-
-
-
-  
 </p>
 
 ## 🛠️ Languages and Tools:
