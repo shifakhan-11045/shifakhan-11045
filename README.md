@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shifa</h1>
 <h3 align="center">A passionate Java Developer crafting digital experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fgirl-coding-cat-young-woman-works-her-laptop-orange-sleeps-peacefully-desk-scene-cozy-depicts-image365288627&psig=AOvVaw1cYi97v07bfEipR3HbBG8j&ust=1742725636110000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDEqrG9nYwDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fgirl-coding-cat-young-woman-works-her-laptop-orange-sleeps-peacefully-desk-scene-cozy-depicts-image365288627&psig=AOvVaw1cYi97v07bfEipR3HbBG8j&ust=1742725636110000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDEqrG9nYwDFQAAAAAdAAAAABAE](https://i.pinimg.com/736x/56/40/a6/5640a62660fa5f5896d909adc0540233.jpg">
 
 
 🔭 I’m currently working on Java Development & Web Applications.  
