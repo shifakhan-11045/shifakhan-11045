@@ -1,7 +1,4 @@
-<center># Hi 👋,I'm Shifa</center>
-
-
-# 💫 About Me:
+# Hi 👋,I'm Shifa
 🔭 I’m currently working on Java Development & Web Applications.  
 
 🌱 I’m currently learning REST API & Java systematically.  
