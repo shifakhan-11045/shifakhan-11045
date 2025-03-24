@@ -20,7 +20,7 @@
 
 📫 How to reach me shifakhan11045@gmail.com  
 
-⚡ Fun fact: I can turn caffeine into code! ☕💻  
+⚡ Fun fact I can turn caffeine into code! ☕💻  
 <br><br>
 [![An image of @shifakhan11045's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shifakhan11045)](https://holopin.io/@shifakhan11045)
 ## 🚀 Connect with me:
