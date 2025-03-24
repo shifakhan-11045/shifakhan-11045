@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&color=DDA0DD&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+👋+,+I'm+Shifa;A+Passionate+Java+Developer;From+India+🇮🇳" />
 </h1>
 
-
 <img src="https://i.pinimg.com/originals/b0/c2/98/b0c2988dae6c0f5b02e7433021a91f39.gif" width="900" height="200"/>
 
 <img align="right" alt="Coding" width="400" height = "350" src="https://i.pinimg.com/736x/56/40/a6/5640a62660fa5f5896d909adc0540233.jpg">
