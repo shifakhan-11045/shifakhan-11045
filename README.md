@@ -1,7 +1,7 @@
 <h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=DDA0DD&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+👋+,+I'm+Shifa;A+Passionate+Java+Developer;From+India+🇮🇳" 
-    alt="Typing SVG" 
+     
   />
 </h1>
 
