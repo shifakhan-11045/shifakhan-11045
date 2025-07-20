@@ -35,6 +35,13 @@
   <a href="https://hashnode.com/@shifakhan">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="40" height="40"/>
   </a>
+ <a href="https://leetcode.com/u/shifaakhan/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/shifakhan11045" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" />
+</a>
+
 </p>
 
 ## 🛠️ Languages and Tools:
