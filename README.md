@@ -26,16 +26,18 @@
 [![An image of @shifakhan11045's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shifakhan11045)](https://holopin.io/@shifakhan11045)
 ## 🚀 Connect with me:
 <p align="left">
-    <a href="https://www.linkedin.com/in/shifa-khan-wef">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/shifaa.khan.11/" style="text-decoration: none;">
+   <
+    <a href="https://www.linkedin.com/in/shifa-khan-wef" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShifaKhan" height="30" width="40" />
+    </a>
+  
+  <a href="https://www.instagram.com/shifaa.khan.11/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShifaKhan" height="30" width="40"/>
   </a>
-  <a href="https://hashnode.com/@shifakhan"style="text-decoration: none;">
+  <a href="https://hashnode.com/@shifakhan" target="blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" width="40" height="40"/>
   </a>
- <a href="https://leetcode.com/u/shifaakhan/" target="_blank"style="text-decoration: none;">
+ <a href="https://leetcode.com/u/shifaakhan/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
 </a>
 <a href="https://www.hackerrank.com/profile/shifakhan11045" target="_blank">
