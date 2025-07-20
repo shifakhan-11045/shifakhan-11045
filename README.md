@@ -39,7 +39,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />
 </a>
 <a href="https://www.hackerrank.com/profile/shifakhan11045" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhuu1804" height="30" width="40"  width="40" height="40" />
 </a>
 
 </p>
