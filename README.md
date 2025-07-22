@@ -26,9 +26,8 @@
 [![An image of @shifakhan11045's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shifakhan11045)](https://holopin.io/@shifakhan11045)
 ## 🚀 Connect with me:
 <p align="left">
-   <a href="https://www.linkedin.com/in/shifa-khan-wef/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shifa-khan-wef/" height="30" width="40" /></a>
-  
-  <a href="https://www.instagram.com/shifaa.khan.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shifaa.khan.11/" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/shifa-khan-wef/" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shifa-khan-wef/" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/shifaa.khan.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shifaa.khan.11/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/shifakhan11045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shifakhan11045" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shifaakhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shifaakhan/" height="30" width="40" /></a>
 </p>
