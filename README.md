@@ -1,7 +1,15 @@
+<div align="right">
+ 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshifakhan-11045&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshifakhan-11045)
+ 
+</div>
+
+
 <h1 align="center">
  <img src="https://readme-typing-svg.vercel.app/?font=Righteous&size=35&color=DDA0DD&center=true&vCenter=true&width=600&height=70&lines=Hi+👋+,+I'm+Shifa;A+Passionate+Java+Developer;From+India+🇮🇳" />
 
 </h1>
+
 
 
 <img src="https://i.pinimg.com/originals/b0/c2/98/b0c2988dae6c0f5b02e7433021a91f39.gif" width="900" height="200"/>
