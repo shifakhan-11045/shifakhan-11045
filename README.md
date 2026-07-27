@@ -23,7 +23,7 @@
 
 👯 I’m looking to collaborate on Java-based web and desktop applications.  
 
-📄 [Click to know more about me ](https://drive.google.com/file/d/1OvP_UlJf66N38v5Bz42PDUkt50GrZnCf/view?usp=drive_link)  
+📄 [Click to know more about me ](https://drive.google.com/file/d/1h6tweKgoyCpXdB8jqgj__4yYHshLphAV/view?usp=drive_link)  
 
 💬 Ask me about Java, Web Development, and Database Management.  
 
